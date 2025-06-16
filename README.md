@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://profile-counter.glitch.me/godstark82/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/garib06/count.svg?"  />
 </div>
 
 ###
@@ -16,23 +16,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" height="30" alt="colab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="30" alt="next logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://github.com/bwks/vendor-icons-svg/blob/master/mysql-logo.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img src="https://github.com/supabase/supabase/blob/master/apps/studio/public/supabase-logo.svg" height="30" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="30" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="30" alt="power bi logo"  />
   <img width="12" />
