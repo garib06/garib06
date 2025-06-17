@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="30" alt="R logo"  />
+  <img width="12" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://github.com/supabase/supabase/blob/master/apps/studio/public/supabase-logo.svg" height="30" alt="supabase logo"  />
