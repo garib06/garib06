@@ -1,18 +1,17 @@
 <div align="cetre">
-  <img src="./media/aiming-jett.gif" width="100%" />
+  <img src="./media/aiming-jett.gif" width="100%" height="300px" />
 </div>
 
 ---
 
 <div align="center">
 
-## **👋 Hi, I'm Atharva Wanaskar**
+### **👋 Hi, I'm Atharva Wanaskar**
 
 ### **🎮 Gamer | 💻 Full Stack Developer | 🇮🇳 India**
 
-<br>
-
 </div>
+<br>
 
 ---
 
